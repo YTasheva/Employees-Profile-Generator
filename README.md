@@ -3,10 +3,10 @@
   <a href="https://github.com/YTasheva">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg?style=for-thebadge" alt=""></a>
   <a href="https://github.com/YTasheva/Employees-Profile-Generator/graphs/contributors">
-      <img src="https://img.shields.io/github/contributors/YTasheva/employees-profile-generator.svg?style=for-the-badge" alt=""></a>
-  <a href="https://github.com/YTasheva/employee-profile-generator/issues">
+      <img src="https://img.shields.io/github/contributors/YTasheva/Employees-Profile-Generator.svg?style=for-the-badge" alt=""></a>
+  <a href="https://github.com/YTasheva/Employees-Profile-Generator/issues">
       <img src="https://img.shields.io/github/issues/YTasheva/employee-profile-generator.svg?style=for-the-badge" alt=""></a>
-  <a href="https://github.com/YTasheva/employee-profile-generator/network/members"><img src="https://img.shields.io/github/forks/YTasheva/employee-profile-generator.svg?style=for-the-badge" alt=""></a>
+  <a href="https://github.com/YTasheva/Employees-Profile-Generator/network/members"><img src="https://img.shields.io/github/forks/YTasheva/employee-profile-generator.svg?style=for-the-badge" alt=""></a>
 </p>
 
 
