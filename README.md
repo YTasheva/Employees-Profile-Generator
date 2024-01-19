@@ -105,9 +105,9 @@ The styling in the image is just an example, so feel free to add your own.
 
 ## Links
 
-- [Solution URL:] 
-- [Live Site URL:] (https://ytasheva.github.io/Employees-Profile-Generator/)
-- 
+- Solution URL: https://github.com/YTasheva/Employees-Profile-Generator
+- Live Site URL:https://ytasheva.github.io/Employees-Profile-Generator/
+  
 ## Tests
 
 - To run tests for the project, first open the root project directory in your terminal. If you haven’t already, run `npm install` to install all necessary testing dependencies. Finally, run `npm test` in your terminal. This command will run the code in your test script in the package JSON for your project.
