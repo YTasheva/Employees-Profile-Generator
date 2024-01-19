@@ -1,4 +1,11 @@
-# Employees-Profile-Generator
+<h1 align="center">Employees-Profile-Generator</h1>
+  <br>
+  <a href="https://github.com/YTasheva">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  <a href="https://github.com/YTasheva/Employees-Profile-Generator/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/YTasheva/employees-profile-generator.svg?style=for-the-badge" alt=""></a>
+  </a>
+</p>
 
 
 ## Table of contents
@@ -119,5 +126,9 @@ node index.js
 
 ## Author
 
-[Yuliya Tasheva](https://github.com/YTasheva)
+- Github - [Yuliya Tasheva](https://github.com/YTasheva)
+
+> [YTasheva.com](#) &nbsp;&middot;&nbsp;
+> GitHub [@YTasheva](https://github.com/YTasheva) &nbsp;&middot;&nbsp;
+> Twitter [@YTasheva](#) &nbsp;&middot;&nbsp;
   
