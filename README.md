@@ -5,8 +5,9 @@
   <a href="https://github.com/YTasheva/Employees-Profile-Generator/graphs/contributors">
       <img src="https://img.shields.io/github/contributors/YTasheva/Employees-Profile-Generator.svg?style=for-the-badge" alt=""></a>
   <a href="https://github.com/YTasheva/Employees-Profile-Generator/issues">
-      <img src="https://img.shields.io/github/issues/YTasheva/employee-profile-generator.svg?style=for-the-badge" alt=""></a>
-  <a href="https://github.com/YTasheva/Employees-Profile-Generator/network/members"><img src="https://img.shields.io/github/forks/YTasheva/employee-profile-generator.svg?style=for-the-badge" alt=""></a>
+      <img src="https://img.shields.io/github/issues/YTasheva/employees-profile-generator.svg?style=for-the-badge" alt=""></a>
+  <a href="https://github.com/YTasheva/Employees-Profile-Generator/network/members">
+      <img src="https://img.shields.io/github/forks/YTasheva/employees-profile-generator.svg?style=for-the-badge" alt=""></a>
 </p>
 
 
