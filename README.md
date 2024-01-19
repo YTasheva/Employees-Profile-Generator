@@ -133,6 +133,6 @@ node index.js
 - Github - [Yuliya Tasheva](https://github.com/YTasheva)
 
 > [YTasheva.com](#) &nbsp;&middot;&nbsp;
-> GitHub [@YTasheva](https://github.com/YTasheva) &nbsp;&middot;&nbsp;
-> Twitter [@YTasheva](#) &nbsp;&middot;&nbsp;
+> LinkedIn [@YTasheva](https://github.com/YTasheva) &nbsp;&middot;&nbsp;
+> Email [ytashevagit@gmail.com](#) &nbsp;&middot;&nbsp;
   
