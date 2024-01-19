@@ -6,9 +6,10 @@
 - [Overview](#overview)
   - [The Challenge](#the-challenge)
   - [Acceptance Criteria](#acceptance-criteria)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Tests](#tests)
+  - [Mock-up](#mock-up)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Tests](#tests)
 - [Installation](#installation)
 - [Licence](#licence)
 - [Author](#author)
@@ -77,7 +78,7 @@
 
 ---
 
-## Mock-Up
+### Mock-Up
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
@@ -88,16 +89,16 @@ The styling in the image is just an example, so feel free to add your own.
 ---
 
 
-### Screenshot
+## Screenshot
 
 
 
-### Links
+## Links
 
 - Solution URL: 
 - Live Site URL: 
    
-### Tests
+## Tests
 
 - To run tests for the project, first open the root project directory in your terminal. If you haven’t already, run `npm install` to install all necessary testing dependencies. Finally, run `npm test` in your terminal. This command will run the code in your test script in the package JSON for your project.
 
